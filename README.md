@@ -1,9 +1,9 @@
-INTRODUCTION : 
+# INTRODUCTION : 
 
   This simple project is a Task Management System. This is a web-based application project developed in PHP and MySQL Database. This project is an automated and online Task Management for a Company and for its Employees. The application helps the company to easily manage and distribute or assign tasks to each employee. This application also includes a simple employee attendance management system. It has a pleasant user interface using Bootstrap Framework. This Task Management System consists of simple and user-friendly features and functionalities.
 
 
-THE PROJECT WAS DEVELOPED USING THE FOLLOWING :
+# THE PROJECT WAS DEVELOPED USING THE FOLLOWING :
 
 
 * XAMPP v3.3.0
@@ -48,7 +48,7 @@ THE PROJECT WAS DEVELOPED USING THE FOLLOWING :
 
 
 
-HOW TO RUN..???
+# HOW TO RUN..???
 
 
 
